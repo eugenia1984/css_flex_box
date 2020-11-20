@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS FlexBox Exercises </title>
+    <link href="flexbox.css" rel="stylesheet" type="text/css" media="screen"/>
+</head>
+
+<body>
+
+    <!--Add flex superpowers to the tweet embed-->
+
+<h2> Add flex superpowers to the tweet embed </h2>    
+    <header>
+       
+        <img src="https://freecodecamp.s3.amazonaws.com/quincy-twitter-photo.jpg" alt="Quincy Larson's profile picture" class="profile-thumbnail">
+        
+        <div class="profile-name">
+          <h3>Quincy Larson</h3>
+          <h4>@ossia</h4>
+        </div>
+       
+        <div class="follow-btn">
+          <button>Follow</button>
+        </div>
+      
+    </header>
+      
+    <div id="inner">
+        <p>I meet so many people who are in search of that one trick that will help them work smart. Even if you work smart, you still have to work hard.</p>
+        <span class="date">1:32 PM - 12 Jan 2018</span>
+        <hr>
+    </div>
+    
+    <footer>
+
+        <div class="stats">
+
+        <div class="Retweets">
+            <strong>107</strong> Retweets
+        </div>
+        
+          <div class="likes">
+            <strong>431</strong> Likes
+        </div>
+
+        </div>
+        <div class="cta">
+          <button class="share-btn">Share</button>
+          <button class="retweet-btn">Retweet</button>
+          <button class="like-btn">Like</button>
+        </div>
+
+    </footer>
+
+<!-- Flex the position of two boxes-->
+
+<h2>  Flex the position of two boxes </h2>
+    <div id="box-container">
+        <div id="box-1"></div>
+        <div id="box-2"></div>
+    </div>
+
+    
+<!-- Flex-direction property to make a row--> 
+
+<h2> Flex-direction property to make a row  </h2>
+
+    <div id="box-container2">
+        <div id="box-11"></div>
+        <div id="box-22"></div>
+    </div>
+
+
+<!-- Use the flex-direction Property to Make a Column -->
+
+<h2> Use the flex-direction Property to Make a Column</h2>
+ 
+  
+<div id="box-container2">
+    <div id="box-111"></div>
+    <div id="box-222"></div>
+</div>
+ 
+
+<style>
+    #box-containers {
+      background: gray;
+      display: flex;
+      height: 500px;
+      justify-content: flex-end;
+    }
+    #box-a {
+      background-color: rgb(30, 255, 79);
+      width: 25%;
+      height: 100%;
+    }
+  
+    #box-b {
+      background-color: rgb(255, 196, 0);
+      width: 25%;
+      height: 100%;
+    }
+  </style>
+  
+  <!--Align Elements Using the justify-content Property: flex-end -->
+
+  <h2> Align Elements Using the justify-content Property flex-end, the yellow and the green are the flex items (columns)</h2>
+  <div id="box-containers">
+    <div id="box-a"></div>
+    <div id="box-b"></div>
+  </div>
+</body>
+</html>
