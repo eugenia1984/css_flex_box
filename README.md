@@ -1,12 +1,12 @@
 # css_flex_box
 Exercise to practice the flexbox in CSS
 
-#Things I was learning:
-*Add flex superpowers to the tweet embed
-*Flex the position of two boxes
-*Flex-direction property to make a row
-*Use the flex-direction Property to Make a Column
-*Align Elements Using the justify-content Property: flex-end
+## Things I was learning:
+_-Add flex superpowers to the tweet embed_
+_-Flex the position of two boxes_
+_-Flex-direction property to make a row_
+_-Use the flex-direction Property to Make a Column_
+_-Align Elements Using the justify-content Property: flex-end_
 
 ## Builded with 🛠️
 
