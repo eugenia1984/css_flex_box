@@ -10,14 +10,19 @@ This Project only has one master branch, it was a small project so it did not ne
 -Flex-direction property to make a row <br/>
 -Align Elements Using the justify-content Property: flex-end <br>
 
+---
 
 ## Builded with 🛠️
 
 **HTML 5** and **CSS3**
 
+---
+
 # You can take a look here :
+
 https://eugenia1984.github.io/css_flex_box/
 
+---
 
 ## Please: 🎁
 
@@ -28,5 +33,7 @@ https://eugenia1984.github.io/css_flex_box/
 
 ---
 
-⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊
+⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊 - Follow me at: [LinkedIn - maria-eugenia-costa](https://www.linkedin.com/in/maria-eugenia-costa/)
+
+---
 
